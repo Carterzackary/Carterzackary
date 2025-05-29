@@ -1,7 +1,5 @@
 ## Hi there 👋 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Carterzackary&left_color=green&right_color=red)
-
 <!--
 **Carterzackary/Carterzackary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,7 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Carterzackary)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carterzackary)
 
